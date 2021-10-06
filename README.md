@@ -1,6 +1,4 @@
 # AnaliticaDatos
-Curso analitica de datos UNAL
 
-Información complementaria: 
+El presente repositorio contiene el material teórico-práctico básico para los cursos Análitica de datos, Aprendizaje de máquina, Aprendizaje por Refuerzo y Míneria de Datos del Departamento de Ingeniería Eléctrica, Electrónica y Computación de la Universidad Nacional de Colombia sede Manizales.
 
-## Creación dashboards - conceptos básicos [https://github.com/Immaczx/Dash_whit_plotly](https://github.com/Immaczx/Dash_whit_plotly)
